@@ -1,4 +1,4 @@
-# TheBrownBear
-Codecamy - Intro to HTML Coding Exercise
+# Codecademy---Introduction-to-HTML-Lessons
+Codecamy - Intro to HTML Lessons
 
-This is the first exercise of Codecademy's HTML course. I created a very simple website about bears, utilizing several of HTML's most basic elements (headers, text emphasis, embedded photo, embedded video, etc.).
+The code branches in this repository correlate to daily lessons in Codecademy's Introduction to HTML course.
